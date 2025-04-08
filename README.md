@@ -6,7 +6,7 @@
   
 - 💞️ I’m looking to collaborate on data analysis projects, building insightful BI dashboards, or tackling data visualization challenges. Open to contributing to open-source projects or any initiative focused on deriving value from data. If you have an interesting dataset or business problem, let's connect!
   
-- 📫 How to reach me You can reach me via email at [your_professional_email@example.com] or connect with me on LinkedIn: [your_linkedin_profile_url]. Feel free to check out my portfolio projects right here on GitHub!
+- 📫 How to reach me You can reach me via email at jannebragge@outlook.com or connect with me on LinkedIn: https://www.linkedin.com/in/jannebragge/. Feel free to check out my portfolio projects right here on GitHub!
 
 -⚡ Fun fact: When I'm not wrangling data, I might be found trying to optimize my coffee brewing process using surprisingly detailed notes.
 
