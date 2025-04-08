@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @studentjannebragge
+- 👋 Hi, I’m @studentjannebragg
   
 - 👀 I’m interested in uncovering hidden stories within datasets, transforming raw numbers into actionable business insights, and building compelling data visualizations. I love tackling complex business problems with data-driven solutions!
   
